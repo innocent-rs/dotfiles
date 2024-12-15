@@ -1,3 +1,5 @@
 [user]
 	email = kyuno@protonmail.com
 	name = kyuno
+[credential]
+        helper = store
