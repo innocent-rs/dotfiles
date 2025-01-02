@@ -897,3 +897,5 @@ $env.config = {
         }
     ]
 }
+
+alias vim = nvim
